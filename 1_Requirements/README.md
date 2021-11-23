@@ -36,7 +36,15 @@ You can play the game easily by left and right button, and the goal is to eat th
 ## High Level Requirements 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HR01 | User shall be able to login to the system| Techincal | IMPLEMENTED | 
-| HR02 | He shall be able to buy a ticket | Techincal | IMPLEMENTED |
-| HR03 | He shall be able to get summary of the ticket booked | Techincal | IMPLEMENTED |
-| HR04 | He shall be able to cancel a ticket| Techincal | IMPLEMENTED |
+| HR01 | when snake eats a fruit the score will increase by 10 points | Techincal | IMPLEMENTED | 
+| HR02 | the fruit is generated automatically within the boundaries | Techincal | IMPLEMENTED |
+| HR03 | whenever the snake is touch the boundary , the game is over | Techincal | IMPLEMENTED |
+| HR04 | when in the game the snakes touch its own body, the game is over | Techincal | IMPLEMENTED |
+
+### Low level Requirements
+ 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+|LR01| if you want to quit the game , press X |HR01|IMPLEMENTED|
+|LR02| the game is played by four key i.e a,s,d,w |HR01|IMPLEMENTED|
+|LR03| when the snake touch the fruit , score is increses  | HR03 |IMPLEMENTED|
