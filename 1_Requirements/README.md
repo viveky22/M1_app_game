@@ -33,3 +33,10 @@ peoples can play the game itself when they feel bored, fresh up their mind.
 You can play the game easily by left and right button, and the goal is to eat the food and increase your score.
 
 ## DETAILS REQUIREMENTS
+## High Level Requirements 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | User shall be able to login to the system| Techincal | IMPLEMENTED | 
+| HR02 | He shall be able to buy a ticket | Techincal | IMPLEMENTED |
+| HR03 | He shall be able to get summary of the ticket booked | Techincal | IMPLEMENTED |
+| HR04 | He shall be able to cancel a ticket| Techincal | IMPLEMENTED |
