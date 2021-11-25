@@ -1,13 +1,8 @@
 # M1_app_snakegame
 
+## Introduction
 
-
-
-
-
-
-
-
+This project in C language of snake game is a simple console application with very simple graphics. In this project you can play  the popular "Snake Game" just like you played elsewhere.you have to use "a,s,d,w" to move the snake.
 
 
 ## Badges
@@ -24,13 +19,6 @@
 |4_Testplan|	Documents with test plans and procedures |
 |5_Report|	Documentation of whole project |
 |6_Images and Vedios|	All the images of this project |
-
-| ID | Description | Category | Status | 
-| ----- | ----- | ------- | ---------|
-| HR01 | User shall be able to login to the system| Techincal | IMPLEMENTED | 
-| HR02 | He shall be able to buy a ticket | Techincal | IMPLEMENTED |
-| HR03 | He shall be able to get summary of the ticket booked | Techincal | IMPLEMENTED |
-| HR04 | He shall be able to cancel a ticket| Techincal | IMPLEMENTED |
 
 
  
