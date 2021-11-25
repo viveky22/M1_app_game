@@ -20,6 +20,25 @@ It is a simple snake game in which the snake represented with '0' and goal is to
 
 5)The number keys "d,a,w,s" haas been set within the program to move the snake toright, left, top and bottom.
 
+# SWOT Analysis
+## Strengths
+easy to play the game
+
+no need of internet
+
+## Weakness
+required a computer to play the game
+
+you can play only virtually on P.C.
+
+
+## Oppotunities
+Expand capabilities to extend further
+
+Get to know more ideas about more games
+
+## Threats
+There are many games of snake in the market , so there is a possibility of same features.
 
 
 ## 4W's and 1H
