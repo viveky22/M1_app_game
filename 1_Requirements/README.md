@@ -14,6 +14,14 @@ It is a simple snake game in which the snake represented with '0' and goal is to
 
 2)Use of simple C to develop the game.
 
+3)Players can continously check their result below.
+
+4)The snake object is always appears as '0'.
+
+5)The number keys "d,a,w,s" haas been set within the program to move the snake toright, left, top and bottom.
+
+
+
 ## 4W's and 1H
 
 ## WHEN
